@@ -23,5 +23,7 @@
     height: 500px;
     display: flex;
     justify-content: center;
-    align-items: center;padding-top: 30px;
+    align-items: center;
+    padding-top: 30px;
+    margin-top: 10px;
 }                                         
